@@ -1,5 +1,5 @@
 # 💫 About Me:
-1  👋 Hi, I'm r0n-dev<br>2  🎮 I'm 15 year's and interested in Game Developing and IT Security<br>3  💻 I'm currently learning Rust and Javascript<br>4  🤝 I'm looking to collaborate on Open-Source game projects or security tools.<br>5  ✉️ How to reach me: https://www.instagram.com/r0n_dev/<br>6  😊 Pronouns: He/Him<br>7  💡 Fun fact: /
+1  👋 Hi, I'm r0n-dev<br>2  🎮 I'm 16 year's and interested in Game Developing and IT Security<br>3  💻 I'm currently learning Rust and Javascript<br>4  🤝 I'm looking to collaborate on Open-Source game projects or security tools.<br>5  ✉️ How to reach me: https://www.instagram.com/r0n_dev/<br>6  😊 Pronouns: He/Him<br>7  💡 Fun fact: /
 
 
 ## 🌐 Socials:
