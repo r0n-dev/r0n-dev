@@ -1,5 +1,5 @@
 # 💫 About Me:
-1  👋 Hi, I'm Ron<br>2  🎮 I'm 16 year's and interested in Game Developing and IT Security<br>3  💻 I'm currently learning Rust and Javascript<br>4  🤝 I'm looking to collaborate on Open-Source game projects or security tools.<br>5
+1  👋 Hi, I'm Ron<br>2  🎮 I'm 16 year's and interested in Game Developing and IT Security<br>3  💻 I'm currently learning Rust and Javascript<br>4  🤝 I'm looking to collaborate on Open-Source game projects or security tools.<br>
 
 
 ## 🌐 Socials:
